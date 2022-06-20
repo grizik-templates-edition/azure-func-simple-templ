@@ -14,7 +14,8 @@ Language of the templates:
 
 - azure/func/http-trigger -- basic implementation of typescript azure trigger
 - gcp/static/knight -- landing page html design snippet [PREVIEW here](https://storage.googleapis.com/knight-web/index.html)
-- gcp/static/solid -- landing page html design snippet [PREVIEW here]
+- gcp/static/parallo -- landing page html design snippet [PREVIEW here] (https://storage.googleapis.com/lava-web/index.html)
+- gcp/static/lava -- landing page html design snippet [PREVIEW here] (https://storage.googleapis.com/parallo-web/index.html)
 
 
 
