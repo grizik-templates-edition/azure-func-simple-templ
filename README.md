@@ -16,7 +16,7 @@ Language of the templates:
 - gcp/static/knight -- landing page html design snippet [PREVIEW here](https://storage.googleapis.com/knight-web/index.html)
 - gcp/static/parallo -- landing page html design snippet [PREVIEW here](https://storage.googleapis.com/lava-web/index.html)
 - gcp/static/lava -- landing page html design snippet [PREVIEW here](https://storage.googleapis.com/parallo-web/index.html)
-
+- gcp/static/hexashop -- landing page html design snippet [PREVIEW here](https://storage.googleapis.com/hexashop-web/index.html)
 
 
 
