@@ -12,9 +12,9 @@ Language of the templates:
 
 ### Available templates
 
-- azure/http-trigger -- basic implementation of typescript azure trigger
-- any/landing-page/knight -- landing page html design snippet
-- any/landing-page/solid -- landing page html design snippet
+- azure/func/http-trigger -- basic implementation of typescript azure trigger
+- any/static/knight -- landing page html design snippet
+- any/static/solid -- landing page html design snippet
 
 
 
