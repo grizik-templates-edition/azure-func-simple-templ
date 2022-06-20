@@ -14,8 +14,7 @@ Language of the templates:
 
 - azure/http-trigger -- basic implementation of typescript azure trigger
 - any/landing-page/knight -- landing page html design snippet
-
-## Contract
+- any/landing-page/solid -- landing page html design snippet
 
 
 
